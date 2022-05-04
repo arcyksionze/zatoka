@@ -1,2 +1,2 @@
 # zatoka
-kilka informacji o mnie 
+> kilka informacji o mnie 
